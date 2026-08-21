@@ -5,7 +5,7 @@ require_once __DIR__ . '/functions.php';
 validateMethod();
 
 // Enable API authentication after configuring API_KEY.
-// validateApiKey();testinggi
+// validateApiKey();testinggiaaaaaaa
 
 $data = getJsonInput();
 
